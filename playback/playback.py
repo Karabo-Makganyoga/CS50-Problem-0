@@ -1,0 +1,3 @@
+message = input()
+playback_speed = message.replace(" ", "...") # The replace function replaces spaces with ...
+print(playback_speed)
